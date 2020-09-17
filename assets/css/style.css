@@ -338,3 +338,7 @@ footer {
  .history-items {
      margin-bottom:30px;
  }
+
+#map {
+    height:400px;
+}
